@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tec-Interative&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TecInterative&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tec-Interative&langs_count=8)
 
 ### Tecnologias
 
